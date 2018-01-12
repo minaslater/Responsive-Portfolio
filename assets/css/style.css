@@ -1,0 +1,20 @@
+.header-name {
+    font-size: 3rem;
+}
+
+.header-left {
+    padding: 15px;
+}
+
+.header {
+    min-height: 70px;
+    padding: 0 50px;
+}
+
+.header-links {
+    padding-top: 15px;
+}
+
+.header-link-name {
+    font-size: 1.8rem;
+}
