@@ -1,0 +1,23 @@
+.header {
+    padding: 0 50px;
+    background: #fff;
+}
+
+.header-left {
+    padding: 15px;
+    background: #4aaaa5;
+}
+
+#header-name {
+    font-size: 2.5rem;
+    margin-left: 0;
+    color: #fff;
+}
+
+.header-links {
+    padding-top: 15px;
+}
+
+.header-link-name {
+    font-size: 1.7rem;
+}
