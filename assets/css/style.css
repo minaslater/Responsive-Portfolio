@@ -1,9 +1,12 @@
-.header-name {
+#header-name {
     font-size: 3rem;
+    margin-left: 0;
+    color: #fff;
 }
 
 .header-left {
     padding: 15px;
+    background: #4aaaa5;
 }
 
 .header {
