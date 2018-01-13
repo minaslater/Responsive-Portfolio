@@ -1,7 +1,7 @@
-#header-name {
-    font-size: 3rem;
-    margin-left: 0;
-    color: #fff;
+.header {
+    min-height: 70px;
+    padding: 0 50px;
+    background: #fff;
 }
 
 .header-left {
@@ -9,9 +9,10 @@
     background: #4aaaa5;
 }
 
-.header {
-    min-height: 70px;
-    padding: 0 50px;
+#header-name {
+    font-size: 3rem;
+    margin-left: 0;
+    color: #fff;
 }
 
 .header-links {
