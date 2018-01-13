@@ -24,3 +24,28 @@
     font-size: 1.7rem;
     text-align: center;
 }
+
+.dev {
+    border: 1px black solid;
+}
+
+.profile-img {
+    padding-right: 1rem;
+    width: 200px;
+    float: left;
+  }
+  
+  .article-title {
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 2rem 0;
+    border-bottom: 2px #dddddd solid;
+    margin: 0 2rem;
+    color: #4aaaa5;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+  }
