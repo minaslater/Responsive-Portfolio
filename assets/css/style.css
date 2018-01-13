@@ -1,5 +1,4 @@
 .header {
-    padding: 0 50px;
     background: #fff;
 }
 
@@ -16,8 +15,10 @@
 
 .header-links {
     padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .header-link-name {
     font-size: 1.7rem;
+    text-align: center;
 }
