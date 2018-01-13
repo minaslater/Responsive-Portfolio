@@ -1,5 +1,4 @@
 .header {
-    padding: 0 50px;
     background: #fff;
 }
 
@@ -12,12 +11,16 @@
     font-size: 2.5rem;
     margin-left: 0;
     color: #fff;
+    text-align: center;
+    float: none;
 }
 
 .header-links {
     padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .header-link-name {
     font-size: 1.7rem;
+    text-align: center;
 }
