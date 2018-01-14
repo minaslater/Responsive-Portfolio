@@ -106,9 +106,9 @@ body {
   footer {
     background-color: #666666;
     border-top: 5px #4aaaa5 solid;
-    min-height: 5rem;
+    min-height: 7rem;
     color: #ffffff;
-    font-size: 0.75rem;
+    font-size: 1rem;
     text-align: center;
     position: relative;
   }
@@ -118,13 +118,16 @@ body {
     top: 50%;
     width: 100%
   }
+  .navbar {
+    min-height: fit-content;
+}
 
   @media screen and (max-width: 640px) {
         .profile-img {
             width: 100%;
         }
 
-        p {
+        .article-content p {
             clear: both;
             padding-top: 20px;
             margin-bottom: 0;
