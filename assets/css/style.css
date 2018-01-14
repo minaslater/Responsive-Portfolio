@@ -97,6 +97,27 @@ h3 {
   font-size: 1.5rem;
 }
 
+.portfolio-proj {
+  position: relative; 
+  margin-top: 20px;
+}
+
+.portfolio-img {
+  width: 100%;
+}
+
+.portfolio-proj-name {
+  position: absolute;
+  bottom: 1rem;
+  text-align: center;
+  width: 100%;
+  background: #4aaaa5;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 2rem;
+  color: #ffffff;
+  padding: 1rem 0;
+}
+
 .social-icon {
   width: 4.5rem;
 }
